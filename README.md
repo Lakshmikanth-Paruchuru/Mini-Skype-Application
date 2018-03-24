@@ -2,6 +2,8 @@
 A publish/subscribe model used in implementation of Skype network
 Install puTTy software to run the application.
 Follow the below steps:
+
+
 	Broker Server:
 •	To compile the “broker.c”, type gcc broker.c –o b –lnsl –lsocket –lresolv –lpthread.
 •	To run ./b
